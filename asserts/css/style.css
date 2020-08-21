@@ -8,6 +8,10 @@ body{
     padding: 0 !important;
     margin: 0 !important;
 }
+.row{
+    margin: 0 !important;
+    padding: 0 !important;
+}
 .cont{
     text-align: center !important;
     align-content: center !important;
@@ -19,7 +23,7 @@ body{
     background-image:linear-gradient(to right, rgba(255, 255, 255, 0.9), rgba(0, 0, 0, 0.1)),url(../img/hero2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 40rem;
+    /* height: 40rem; */
 }
 .navbar-brand{
     font-size: 2rem !important ;
@@ -30,15 +34,30 @@ body{
     color: rgb(1, 1, 31) !important;
 }
 .good{
-    margin-top: 11rem;
-    font-size: 3.5rem;
+    margin-top: 6rem !important;
+    font-size: 3.5em !important;
     font-weight: normal !important;
     color: rgb(37, 73, 145) !important ;
 }
 .small{
-    margin-top: 2rem;
-    font-size: 1rem;
+    margin-top: 2rem !important;
+    font-size: 1rem !important;
     color: rgb(45, 86, 168) !important ;
+
+}
+.watch{
+    margin-top: 2rem !important;
+    margin-bottom: 2rem !important;
+
+
+}
+.button0{
+    background-color: coral !important;
+    box-shadow: 8px 8px 6px rgb(248, 181, 148);
+    border: none !important;
+    font-size: 1rem;
+    color: white;
+    padding: 10px 16px  !important;
 
 }
 /* end of section 1 */
@@ -68,11 +87,11 @@ body{
 /* button1 */
 .button1{
     background-color: coral !important;
-    padding: 2rem !important;
     box-shadow: 8px 8px 6px rgb(248, 181, 148);
     border: none !important;
     font-size: 1rem;
     color: white;
+    padding: 10px 16px  !important;
 
 }
 /* end of section two */
@@ -108,16 +127,16 @@ body{
 } */
 /* section4 */
 #images2{
-    background-image:linear-gradient(to right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),url(../img/Finger-Food-Tray-FI-660x440.png);
+    background-image:linear-gradient(to right, rgba(3, 4, 59, 0.9), rgba(3, 4, 51, 0.9)),url(../img/Finger-Food-Tray-FI-660x440.png);
     margin-top: 2rem !important;
     color: white !important;
-    height: 20rem !important;
+    /* height: 20rem !important; */
     border-radius: 10px !important;
     align-items: center !important;
     text-align: center !important;
     justify-content: center !important;
     padding: 2rem !important;
-    width: 90%;
+    /* width: 100%; */
 
 }
 /* section5 */
@@ -155,5 +174,26 @@ body{
     border-radius: none !important;
 }
 .card-img-top{
-    border-radius: 0.8rem !important;
+    border-radius: 0.7rem !important;
 }
+/* section8 */
+.update{
+    margin-top: 8rem !important;
+    margin-bottom: 3rem !;
+    align-items: center !important;
+    text-align: center !important;
+    justify-content: center !important;
+}
+.subscribe{
+    margin-top: 2rem !important;
+    margin-bottom: 3rem !;
+    align-items: center !important;
+    text-align: center !important;
+    justify-content: center !important;
+}
+#subs{
+    background-color: coral;
+    color: white;
+    border-radius: 0.7rem;
+}
+/* section10 */
