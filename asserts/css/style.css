@@ -1,0 +1,159 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image:linear-gradient(to right, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)),url(../img/hero2.jpg);
+
+}
+.container-fluid {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.cont{
+    text-align: center !important;
+    align-content: center !important;
+    align-self: center !important;
+    align-items: center !important;
+    justify-content: center !important;
+} 
+.image{
+    background-image:linear-gradient(to right, rgba(255, 255, 255, 0.9), rgba(0, 0, 0, 0.1)),url(../img/hero2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40rem;
+}
+.navbar-brand{
+    font-size: 2rem !important ;
+    font-family: elephant !important;
+    color: rgb(28, 9, 46) !important;
+}
+#menu{
+    color: rgb(1, 1, 31) !important;
+}
+.good{
+    margin-top: 11rem;
+    font-size: 3.5rem;
+    font-weight: normal !important;
+    color: rgb(37, 73, 145) !important ;
+}
+.small{
+    margin-top: 2rem;
+    font-size: 1rem;
+    color: rgb(45, 86, 168) !important ;
+
+}
+/* end of section 1 */
+/* section two */
+/* card image */
+.card{
+    border: none !important;
+}
+#card-reader{
+    box-shadow: 15px 3px rgba(240, 234, 234, 0.8) !important;
+    margin-top: 2rem !important;
+    border-top-left-radius: 80px !important;
+    border-bottom-right-radius: 80px !important;
+    width: 85% !important;
+}
+#best{
+    margin-top: 7rem !important;
+    font-size: 2.5rem;
+    margin-bottom: 2rem !important;
+    color: rgb(18, 39, 97) !important;
+
+}
+.lorem{
+    font-size: 0.8rem !important;
+    color: rgb(95, 94, 94);
+}
+/* button1 */
+.button1{
+    background-color: coral !important;
+    padding: 2rem !important;
+    box-shadow: 8px 8px 6px rgb(248, 181, 148);
+    border: none !important;
+    font-size: 1rem;
+    color: white;
+
+}
+/* end of section two */
+/* section3 */
+#comfort{
+    margin-top: 5rem !important;
+    font-size: 2.5rem;
+    margin-bottom: 2rem !important;
+    color: rgb(18, 39, 97) !important;
+
+}
+.lorem{
+    color: rgb(95, 94, 94);
+}
+.imageShift {
+    border-radius: 2rem;
+    margin-top: 6rem;
+}
+.imageShift2{
+    border-radius: 2rem;
+
+}
+/* button2 */
+/* .button2{
+    margin-top: 1.5rem !important;
+    margin-left: .5rem !important;
+    border: none !important;
+    background-color:coral !important;
+    color: white;
+    padding: 2rem !important;
+    font-size: 1rem !important;
+    box-shadow: 15px 20px !important;
+} */
+/* section4 */
+#images2{
+    background-image:linear-gradient(to right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),url(../img/Finger-Food-Tray-FI-660x440.png);
+    margin-top: 2rem !important;
+    color: white !important;
+    height: 20rem !important;
+    border-radius: 10px !important;
+    align-items: center !important;
+    text-align: center !important;
+    justify-content: center !important;
+    padding: 2rem !important;
+    width: 90%;
+
+}
+/* section5 */
+#explore{
+    margin-top: 5rem !important;
+    align-items: center !important;
+    text-align: center !important;
+    justify-content: center !important;
+}
+/* section6 */
+/* #cards{
+    margin-bottom: 4rem !important;
+    padding: 2rem !important;
+
+} */
+.card-img-top{
+    border-top-left-radius: 20px !important;
+    border-top-right-radius: 20px !important;
+
+
+}
+#three{
+    margin-left: auto !important;
+}
+/* section7 */
+#discover{
+    margin-top: 3rem !important;
+    align-items: center !important;
+    text-align: center !important;
+    justify-content: center !important;
+}
+
+/* the four card images */
+.fourcard{
+    border-radius: none !important;
+}
+.card-img-top{
+    border-radius: 0.8rem !important;
+}
