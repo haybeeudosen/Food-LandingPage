@@ -27,8 +27,9 @@ body{
 }
 .navbar-brand{
     font-size: 2rem !important ;
-    font-family: elephant !important;
-    color: rgb(28, 9, 46) !important;
+    font-family: Edwardian Script ITC !important;
+    font-weight: bold !important;
+    color: rgb(47, 15, 77) !important;
 }
 #menu{
     color: rgb(1, 1, 31) !important;
@@ -127,7 +128,7 @@ body{
 } */
 /* section4 */
 #images2{
-    background-image:linear-gradient(to right, rgba(3, 4, 59, 0.9), rgba(3, 4, 51, 0.9)),url(../img/Finger-Food-Tray-FI-660x440.png);
+    background-image:linear-gradient(to right, rgba(59, 77, 165, 0.9), rgba(70, 85, 163, 0.9)),url(../img/Finger-Food-Tray-FI-660x440.png);
     margin-top: 2rem !important;
     color: white !important;
     /* height: 20rem !important; */
@@ -176,6 +177,15 @@ body{
 .card-img-top{
     border-radius: 0.7rem !important;
 }
+.cardimg {
+    background-image:linear-gradient(to right, rgba(59, 77, 165, 0.9), rgba(70, 85, 163, 0.9)),url(../img/Finger-Food-Tray-FI-660x440.png);
+    /* opacity: 0.5; */
+    height: 22rem;
+    border-radius: 1rem;
+    align-items: center !important;
+    text-align: center !important;
+    justify-content: center !important;
+  }
 /* section8 */
 .update{
     margin-top: 8rem !important;
@@ -193,7 +203,13 @@ body{
 }
 #subs{
     background-color: coral;
+    height: 3rem !important;
+    width: 10% !important;
     color: white;
-    border-radius: 0.7rem;
+    border-top-right-radius: 0.7rem;
+    border-bottom-right-radius: 0.7rem;
+    align-items: center !important;
+    text-align: center !important;
+    justify-content: center !important;
 }
 /* section10 */
