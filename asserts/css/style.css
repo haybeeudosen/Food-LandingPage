@@ -204,7 +204,7 @@ body{
 #subs{
     background-color: coral;
     height: 3rem !important;
-    width: 10% !important;
+    /* width: 10% !important; */
     color: white;
     border-top-right-radius: 0.7rem;
     border-bottom-right-radius: 0.7rem;
