@@ -128,7 +128,7 @@ body{
 } */
 /* section4 */
 #images2{
-    background-image:linear-gradient(to right, rgba(59, 77, 165, 0.9), rgba(70, 85, 163, 0.9)),url(../img/Finger-Food-Tray-FI-660x440.png);
+    background-image:linear-gradient(to right, rgba(19, 25, 54, 0.9), rgba(17, 17, 48, 0.9)),url(../img/Finger-Food-Tray-FI-660x440.png);
     margin-top: 2rem !important;
     color: white !important;
     /* height: 20rem !important; */
@@ -178,7 +178,7 @@ body{
     border-radius: 0.7rem !important;
 }
 .cardimg {
-    background-image:linear-gradient(to right, rgba(59, 77, 165, 0.9), rgba(70, 85, 163, 0.9)),url(../img/Finger-Food-Tray-FI-660x440.png);
+    background-image:linear-gradient(to right, rgba(51, 51, 53, 0.9), rgba(84, 84, 87, 0.9)),url(../img/Finger-Food-Tray-FI-660x440.png);
     /* opacity: 0.5; */
     height: 22rem;
     border-radius: 1rem;
